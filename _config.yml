@@ -1,0 +1,34 @@
+title: HyG
+brief-intro: Front-end Dev Engineer
+baseurl: ''
+url: ''
+permalink: '/:year/:month/:day/:title/'
+twitter_username: null
+facebook_username: gaohaoyang.water
+github_username: Gaohaoyang
+email: gaohaoyang126@126.com
+weibo_username: 3115521wh
+zhihu_username: gaohaoyang
+linkedIn_username: gaohaoyang
+dribbble_username: null
+description_footer: 本站记录我前端之旅的沿途风景！
+duoshuo_shortname: null
+disqus_shortname: gaohaoyang
+baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+google_analytics_id: UA-72449510-4
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+category_dir: category/
+tag_dir: tag/
+excerpt_separator: |+
+
+
+
+
+gems:
+  - jekyll-paginate
+paginate: 10
+plugins:
+  - jekyll-paginate
